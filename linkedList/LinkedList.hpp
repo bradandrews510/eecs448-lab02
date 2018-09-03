@@ -1,6 +1,7 @@
 /**
-*	@author 
-*	@date 
+*	@author : John Gibbons
+*	@co-author : Brad Andrews
+*	@9/2/18
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
 */
